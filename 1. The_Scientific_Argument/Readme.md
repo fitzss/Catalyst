@@ -1,8 +1,4 @@
-# Physics aims at solving problems;
-as a consequence, it seeks, if possible,
-universal and exact testable laws,
-formulated in whatever
-mode of explanation happens to be appropriate.
+# Physics aims at solving problems; as a consequence, it seeks, if possible, universal and exact testable laws,formulated in whatever mode of explanation happens to be appropriate.
 
 
 From the question of
