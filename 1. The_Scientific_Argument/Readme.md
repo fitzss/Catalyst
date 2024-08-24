@@ -78,6 +78,22 @@ This table is central to understanding how counterfactuals (alternative possibil
 
 # Constructor Theory forms principles about counterfactuals that are stated by saying what tasks are possible, what are impossible, and why.
 
+# Factual explanations are explanations about what must happen in the universe (or what is likely to), given what has happened.
+  - Factuals are facts about what is the ‘actual’
+
+# Counterfactual explanations of the world are explanations about what physical events could or could not be made to happen.
+
+# Counterfactuals are the foundation of a new mode of explanation which can provide new explanations.
+
+# Counterfactuals are facts about what could or could not be.
+
+
+# Counterfactual Explanations are statements
+  - about what could or could not be there,
+  - what it could or could not do,
+  - and how it could or could not do that,
+  - and why it could or could not do that too.
+
 
 
 
