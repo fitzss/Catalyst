@@ -192,5 +192,5 @@ laws of motion and initial conditions
 are excellent for a special purpose—
 i.e. to make predictions about
 what happens on a subpart of the
-universe, (like a cannon, balls, marbles, and planets)
+universe, (like a cannon, tennis balls, marbles, and planets)
 
