@@ -162,4 +162,10 @@ An object that can perform
 any task
 and stays the same after doing it.
 
+# Dynamical Laws cannot
+handle specific Counterfactual
+features of systems
+appearing in our universe
+
+
 
