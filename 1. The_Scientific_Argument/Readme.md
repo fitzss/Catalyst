@@ -42,5 +42,8 @@ This table is central to understanding how counterfactuals (alternative possibil
         - one is the Impossibility of performing a transformation
         - the other is the Possibility of performing a transformation
 
+# Assertions about probabilities do not refer to the physical world they don’t assert anything about the physical world.
+
+
 
 
