@@ -5,6 +5,8 @@
 
 ### The traditional conception of physics and science, takes for granted that scientific theories can only be about what must happen in the universe (or is likely to), given what has happened. But none of that is true. It is no more than an arbitrary limitation on our ability to understand the world.  Incorporating counterfactuals on an equal footing with factual statements into fundamental physics.
 
+# The traditional conception of physics cannot express counterfactual properties
+
 # Fundamental Counterfactuals and Their Relation to the Physical World
 
 This document provides an overview of fundamental counterfactuals and their connection to the physical world. The table below outlines key phenomena, the corresponding counterfactuals, physical laws, and notable related entities.
