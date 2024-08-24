@@ -184,13 +184,12 @@ or a dynamical law,
 is a description of
 where a system goes,
 (such as a sphere or planet)
-given that its motion at a certain point in space and time
-starts
+given that its motion start at a certain point in space and time.
 
 # Explanations in the form of
 laws of motion and initial conditions
 are excellent for a special purpose—
 i.e. to make predictions about
-what happens on a subpart of the
-universe, (like a cannon, tennis balls, marbles, and planets)
+what happens on a subpart of the universe.
+(like a cannon, tennis balls, marbles, and planets)
 
