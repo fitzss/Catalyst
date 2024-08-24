@@ -70,7 +70,7 @@ This table is central to understanding how counterfactuals (alternative possibil
   - They are principles, which underlie and supplement the existing most fundamental theories of physics, from these principles, the traditional description in terms of initial conditions and laws of motion can be recovered in many cases.
   - Much more can be said without approximations.
 
-# Constructor Theory forms principles about counterfactuals that are stated by sayingwhat tasks are possible, what are impossible, and why.
+# Constructor Theory forms principles about counterfactuals that are stated by saying what tasks are possible, what are impossible, and why.
 
 
 
