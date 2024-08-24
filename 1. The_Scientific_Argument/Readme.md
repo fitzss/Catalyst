@@ -22,3 +22,19 @@ This document provides an overview of fundamental counterfactuals and their conn
 
 This table is central to understanding how counterfactuals (alternative possibilities) manifest in physical systems and how these systems are bound by fundamental physical laws.
 
+## Explanatory theories with such counter-factual implications are more fundamental than predictions of what will happen.
+
+  - A task A is possible (which I write as A✓ ) if the laws of nature impose no
+    limit, short of perfection, on how accurately A could be performed, nor on how well
+    things that are capable of approximately performing it could retain their ability to do
+    so. Otherwise A is impossible (which I write as A✗ ).
+
+  - It may be that construction tasks are the primitive entities in terms of which the laws
+    of nature are expressed. In that case, a ‘set of ordered pairs of states’ would be only a
+    provisional way of conceiving of tasks: ultimately substrates, states and
+    transformations would be understood in terms of tasks, not vice versa.
+
+  - A construction task specifies only intrinsic attributes of its substrates, not extrinsic
+    ones such as the name or location of a particular instance.
+
+
