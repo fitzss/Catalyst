@@ -44,6 +44,29 @@ This table is central to understanding how counterfactuals (alternative possibil
 
 # Assertions about probabilities do not refer to the physical world they don’t assert anything about the physical world.
 
+# Constructor Theory fundamental objects are tasks
+
+  - Tasks
+    which is a specification
+    of a physical transformation on a
+    Substrate,
+    with some input attributes,
+    with some output attributes.
+
+  - Attributes
+    are properties of a substrate
+    that can be in different states.
+
+  - State
+    a specific condition that an
+    attribute can have.
+
+  - Constructor
+    something that performs the task reliably
+    an object that can perform the task
+    and stays the same after doing it.
+
+
 
 
 
