@@ -172,7 +172,7 @@ laws of physics about systems displaying
 the counterfactual properties discussed in this book,
 and to show that dynamical laws such as
 quantum theory and general relativity
-are emergent, deductive approximations
+are emergent, derative approximations
 following from those principles,
 
   - which are all expressible as statements
