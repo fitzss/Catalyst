@@ -24,7 +24,9 @@ The current landscape of robotic software development is heavily influenced by p
   
 3. **Develop and Test Robotic Applications**: Use Pillur’s framework to build and test robotic applications that demonstrate the practical benefits of a constructor theory-based approach.
 
-## Repository Structure
+## External Links
+    - https://www.constructortheory.org/
+## Planned Repository Structure
 
 ```plaintext
 Pillur/
