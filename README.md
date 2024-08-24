@@ -26,6 +26,10 @@ The current landscape of robotic software development is heavily influenced by p
 
 ## External Links
   - https://www.constructortheory.org/
+  - https://www.daviddeutsch.org.uk/
+  - https://www.chiaramarletto.com/
+  - https://www.chiaramarletto.com/books/the-science-of-can-and-cant/
+  - https://www.thebeginningofinfinity.com/
 ## Planned Repository Structure
 
 ```plaintext
