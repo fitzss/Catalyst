@@ -37,4 +37,10 @@ This table is central to understanding how counterfactuals (alternative possibil
   - A construction task specifies only intrinsic attributes of its substrates, not extrinsic
     ones such as the name or location of a particular instance.
 
+# Counterfactual properties of physical systems
+  ## The fundamental types of counterfactuals that occur in Physics are of two kinds:
+        - one is the Impossibility of performing a transformation
+        - the other is the Possibility of performing a transformation
+
+
 
