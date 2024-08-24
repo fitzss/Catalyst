@@ -17,3 +17,21 @@ limitation on our ability to understand the world.
 Incorporating counterfactuals on an equal footing
 with factual statements into
 fundamental physics
+
+# Fundamental Counterfactuals and Their Relation to the Physical World
+
+This document provides an overview of fundamental counterfactuals and their connection to the physical world. The table below outlines key phenomena, the corresponding counterfactuals, physical laws, and notable related entities.
+
+## Table of Counterfactuals and Physical World Relations
+
+| Phenomenon           | Counterfactuals                                       | Physical Laws                                           | Notable Related Entities                                   |
+|----------------------|------------------------------------------------------|---------------------------------------------------------|-----------------------------------------------------------|
+| **Information**       | Possibility of 'flip' and 'copy'                     | Interoperability of information media                    | Universal computer, Universal constructor                  |
+| **Quantum Information**| Impossibility of copying certain information states  | Interoperability of quantum information media            | Universal quantum computer, Universal constructor          |
+| **Knowledge**         | Ability to enable transformations and remain embodied | To be discovered!                                        | Abstract catalysts, Universal constructor                  |
+| **Work**              | Possibility of the seesawing transformation          | Conservation of energy, Counterfactual second law of thermodynamics | Scale-independent engines, Universal constructor  |
+
+---
+
+This table is central to understanding how counterfactuals (alternative possibilities) manifest in physical systems and how these systems are bound by fundamental physical laws.
+
