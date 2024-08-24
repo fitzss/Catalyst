@@ -121,6 +121,17 @@ This table is central to understanding how counterfactuals (alternative possibil
   - and how it could or could not do that,
   - and why it could or could not do that too.
 
+# A Task is a specified physical transformation on a substrate, which involves changing an attribute from one state to another.
+
+# A constructor
+for a task T
+is a system which whenever presented
+with the substrate of the task T
+in one of the input attributes,
+it delivers it in one of the states
+of the allowed output attributes,
+and retains the ability to do that again.
+
 
 
 
