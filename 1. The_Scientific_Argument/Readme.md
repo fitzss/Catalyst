@@ -3,20 +3,7 @@
 
 ## From the question of performing any computation. but now performing any transformation of physical objects, and not if given enough memory but, if given only knowledge because if there’s something you have to give it other then knowledge which itself couldn’t provide then its not universal.
 
-The traditional conception of
-physics and science,
-takes for granted that scientific theories
-can only be about what must happen
-in the universe (or is likely to),
-given what has happened.
-
-But none of that is true.
-It is no more than an arbitrary
-limitation on our ability to understand the world.
-
-Incorporating counterfactuals on an equal footing
-with factual statements into
-fundamental physics
+### The traditional conception of physics and science, takes for granted that scientific theories can only be about what must happen in the universe (or is likely to), given what has happened. But none of that is true. It is no more than an arbitrary limitation on our ability to understand the world.  Incorporating counterfactuals on an equal footing with factual statements into fundamental physics.
 
 # Fundamental Counterfactuals and Their Relation to the Physical World
 
