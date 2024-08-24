@@ -179,4 +179,18 @@ following from those principles,
     about which transformations are possible
     and which are not, and why.
 
+# A law of motion,
+or a dynamical law,
+is a description of
+where a system goes,
+(such as a sphere or planet)
+given that its motion at a certain point in space and time
+starts
+
+# Explanations in the form of
+laws of motion and initial conditions
+are excellent for a special purpose—
+i.e. to make predictions about
+what happens on a subpart of the
+universe, (like a cannon, balls, marbles, and planets)
 
