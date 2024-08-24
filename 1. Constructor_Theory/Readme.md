@@ -149,6 +149,13 @@ it delivers it in one of the states
 of the allowed output attributes,
 and retains the ability to do that again.
 
+# A Task is a specified
+physical transformation on an object
+which involves changing a
+property of the object
+from one specific condition that
+a property of the object can have
+to another.
 
 
 
