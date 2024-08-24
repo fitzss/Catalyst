@@ -123,6 +123,23 @@ This table is central to understanding how counterfactuals (alternative possibil
 
 # A Task is a specified physical transformation on a substrate, which involves changing an attribute from one state to another.
 
+# An attribute x
+is a set of states
+all having a property x
+
+# A variable
+is a set of disjoint attributes,
+where 'disjoint' has to be
+intended in the sense of set theory.
+
+# A task
+is the abstract specification
+of a physical transformation,
+represented as a
+finite set of ordered pairs of
+input/output attributes:
+T = (a1 ➝ b1, a2 ➝ b2, ..., an ➝ bn)
+
 # A constructor
 for a task T
 is a system which whenever presented
