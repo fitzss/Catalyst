@@ -67,10 +67,8 @@ This table is central to understanding how counterfactuals (alternative possibil
     and stays the same after doing it.
 
 # In Constructor Theory all laws of physics are stated by saying what tasks are possible, what are impossible, and why.
-  - ## They are principles,
-    - which underlie and supplement the existing most fundamental theories of physics,
-    - ## from these principles,
-    - the traditional description in terms of initial conditions and laws of motion can be recovered in many cases. Much more can be said without approximations.
+  - They are principles, which underlie and supplement the existing most fundamental theories of physics, from these principles, the traditional description in terms of initial conditions and laws of motion can be recovered in many cases.
+  - Much more can be said without approximations.
 
 
 
