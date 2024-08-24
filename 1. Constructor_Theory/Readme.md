@@ -157,5 +157,9 @@ from one specific condition that
 a property of the object can have
 to another.
 
+# Universal Constructor
+An object that can perform
+any task
+and stays the same after doing it.
 
 
