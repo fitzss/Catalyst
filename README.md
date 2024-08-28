@@ -13,6 +13,10 @@ The current landscape of robotic software development is heavily influenced by p
 Catalyst, as a task-oriented robotic software language, would focus on leveraging the possibilities and constraints (CAN and CAN'T) of tasks in robotic systems. It provides a structured way to define, manage, and execute tasks based on the principles of Constructor Theory, where tasks are seen as transformations governed by the laws of physics.
 Counterfactual API which conists of Can and Cant declarations that compose a robotic system.
 
+About the power of taking counterfactual explanations of the world seriously.
+
+Counterfactual explanations of the world are explanations about what physical events could or could not be made to happen.
+
 ## Key Concepts
 
 - **Constructor Theory**: The foundation of Pillur, Constructor Theory shifts the focus from traditional laws of motion to principles that define what tasks are possible or impossible. In the context of robotics, this means creating software that can perform tasks reliably and deterministically.
