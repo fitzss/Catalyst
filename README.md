@@ -30,7 +30,7 @@ actions:
   - CAN: grasp(arm, block)
   - CAN: move(arm, target_location)
   - CAN'T: collide(arm, obstacles)
-
+```
 
 # Pillur: Applying Constructor Theory to Robotic Software Development
 
