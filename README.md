@@ -1,3 +1,37 @@
+# Pillur: A Platform for Robotic Software Development with Catalyst
+
+## Overview
+
+Pillur is an innovative platform designed to revolutionize robotic software development by applying the principles of Constructor Theory. Rooted in the pioneering ideas of David Deutsch and Chiara Marletto, Pillur aims to redefine how robotic software is conceptualized, developed, and tested. At its core, Pillur integrates **Catalyst**, a task-oriented Domain Specific Language (DSL) that allows developers to define robotic tasks in terms of "CAN" and "CAN'T" constraints.
+
+## Why Pillur?
+
+The current landscape of robotic software development is heavily influenced by probabilistic models and methodologies. While effective in some contexts, these approaches often lack the precision and reliability needed in robotics. **Pillur** challenges this paradigm by introducing a counterfactual approach, where tasks are defined by what is possible and impossible, rather than by probabilities. This shift enhances the accuracy of robotic software and opens up new avenues for innovation.
+
+### Key Concepts
+
+- **Constructor Theory:** The foundation of Pillur, Constructor Theory shifts the focus from traditional laws of motion to principles that define what tasks are possible or impossible. In the context of robotics, this means creating software that can perform tasks reliably and deterministically.
+
+- **Catalyst Language:** Catalyst is a minimalistic DSL within Pillur that allows developers to specify tasks for robots using "CAN" and "CAN'T" declarations. This language is designed to manage and execute tasks based on the principles of Constructor Theory, ensuring that robotic systems adhere to the defined constraints.
+
+- **Counterfactuals in Robotics:** Pillur’s approach is rooted in counterfactual reasoning—defining tasks based on outcomes that can or cannot occur. This leads to more precise and reliable software, reducing the complexity and unpredictability associated with traditional approaches.
+
+- **Deterministic Software Development:** By eliminating probabilistic elements, Pillur ensures that robotic software behaves predictably and consistently, even in complex environments.
+
+### Example Workflow with Catalyst
+
+Consider the following task definition written in Catalyst's TDL (Task Definition Language):
+
+```yaml
+task: PickAndPlaceBlock
+description: Move the block to the target area without hitting obstacles.
+actions:
+  - CAN: move(arm, block_location)
+  - CAN: grasp(arm, block)
+  - CAN: move(arm, target_location)
+  - CAN'T: collide(arm, obstacles)
+
+
 # Pillur: Applying Constructor Theory to Robotic Software Development
 
 ## Overview
