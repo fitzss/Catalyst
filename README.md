@@ -8,6 +8,9 @@
 
 The current landscape of robotic software development is heavily influenced by probabilistic models and methodologies. These approaches, while effective in certain contexts, often fall short in providing the precision and reliability required in robotics. Pillur challenges this paradigm by introducing a counterfactual approach, where tasks are defined by what is possible and impossible, rather than by probabilities. This shift not only enhances the accuracy of robotic software but also opens up new possibilities for innovation in the field.
 
+## Why Catalyst?
+
+Catalyst, as a task-oriented robotic software language, would focus on leveraging the possibilities and constraints (CAN and CAN'T) of tasks in robotic systems. It provides a structured way to define, manage, and execute tasks based on the principles of Constructor Theory, where tasks are seen as transformations governed by the laws of physics.
 Counterfactual API which conists of Can and Cant declarations that compose a robotic system.
 
 ## Key Concepts
