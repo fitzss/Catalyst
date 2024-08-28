@@ -8,6 +8,8 @@
 
 The current landscape of robotic software development is heavily influenced by probabilistic models and methodologies. These approaches, while effective in certain contexts, often fall short in providing the precision and reliability required in robotics. Pillur challenges this paradigm by introducing a counterfactual approach, where tasks are defined by what is possible and impossible, rather than by probabilities. This shift not only enhances the accuracy of robotic software but also opens up new possibilities for innovation in the field.
 
+Counterfactual API which conists of Can and Cant declarations that compose a robotic system.
+
 ## Key Concepts
 
 - **Constructor Theory**: The foundation of Pillur, Constructor Theory shifts the focus from traditional laws of motion to principles that define what tasks are possible or impossible. In the context of robotics, this means creating software that can perform tasks reliably and deterministically.
