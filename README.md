@@ -45,7 +45,7 @@ actions:
    Author(s): [Author Name(s)]  
    Link: [URL]
 
----
+
 # Pillur: Applying Constructor Theory to Robotic Software Development
 
 ## Overview
