@@ -33,7 +33,7 @@ actions:
 ```
 # Reference
 
-1. **[Title of the Reference]**  
+1. **The Philosophy of Constructor Theory**  
    Author(s): [Author Name(s)]  
    Link: [URL]
 
