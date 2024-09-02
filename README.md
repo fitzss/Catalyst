@@ -34,8 +34,8 @@ actions:
 # Reference
 
 1. **The Philosophy of Constructor Theory**  
-   Author(s): [Author Name(s)]  
-   Link: [URL]
+   Author(s): David Deutsch  
+   Link: https://www.constructortheory.org/portfolio/the-philosophy-of-constructor-theory/
 
 2. **[Title of the Reference]**  
    Author(s): [Author Name(s)]  
