@@ -37,13 +37,13 @@ actions:
    Author(s): David Deutsch  
    Link: https://www.constructortheory.org/portfolio/the-philosophy-of-constructor-theory/
 
-2. **[Title of the Reference]**  
-   Author(s): [Author Name(s)]  
-   Link: [URL]
+2. **The Science of Can and Can't**  
+   Author(s): Chiara Marlett0
+   Link: https://www.chiaramarletto.com/books/the-science-of-can-and-cant/
 
-3. **[Title of the Reference]**  
-   Author(s): [Author Name(s)]  
-   Link: [URL]
+3. **The information-theoretic foundation of thermodynamic work extraction**  
+   Author(s): Chiara Marletto
+   Link: https://www.constructortheory.org/portfolio/the-information-theoretic-foundation-of-thermodynamic-work-extraction/
 ---
 
 # Pillur: Applying Constructor Theory to Robotic Software Development
