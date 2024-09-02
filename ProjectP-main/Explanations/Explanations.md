@@ -1,0 +1,2 @@
+Explanations. It's because you can't formalize the notion of an explanation. You can always invent new modes of explanation, and they are conjectures, like any theory. So you might conjecture that so-and-so is a good mode of explanation. And the openness of science is connected with the non-formalizability of explanation. And by the way, that's exactly the same as the non-formalizability of mathematics.  -DD Mindscape
+

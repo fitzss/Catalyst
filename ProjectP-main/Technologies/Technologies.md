@@ -1,0 +1,10 @@
+**Software Technologies:**
+- Kubernetes
+ - Kubeflow
+ - KubeEdge
+ - ArgoCD
+ - Helm
+ - Docker
+- Tensorflow
+- Keras
+- ROS
