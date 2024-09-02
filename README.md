@@ -32,6 +32,20 @@ actions:
   - CAN'T: collide(arm, obstacles)
 ```
 # Reference
+
+1. **[Title of the Reference]**  
+   Author(s): [Author Name(s)]  
+   Link: [URL]
+
+2. **[Title of the Reference]**  
+   Author(s): [Author Name(s)]  
+   Link: [URL]
+
+3. **[Title of the Reference]**  
+   Author(s): [Author Name(s)]  
+   Link: [URL]
+
+---
 # Pillur: Applying Constructor Theory to Robotic Software Development
 
 ## Overview
