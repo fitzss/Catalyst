@@ -38,7 +38,7 @@ actions:
    Link: https://www.constructortheory.org/portfolio/the-philosophy-of-constructor-theory/
 
 2. **The Science of Can and Can't**  
-   Author(s): Chiara Marlett0
+   Author(s): Chiara Marletto
    Link: https://www.chiaramarletto.com/books/the-science-of-can-and-cant/
 
 3. **The information-theoretic foundation of thermodynamic work extraction**  
