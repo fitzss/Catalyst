@@ -1,182 +1,64 @@
-# Pillur: A Platform for Robotic Software Development with Catalyst
+# Catalyst: Task-Oriented Robotic Software Language
 
-## Overview
+## Project Description
 
-Pillur is an innovative platform designed to revolutionize robotic software development by applying the principles of Constructor Theory. Rooted in the pioneering ideas of David Deutsch and Chiara Marletto, Pillur aims to redefine how robotic software is conceptualized, developed, and tested. At its core, Pillur integrates **Catalyst**, a task-oriented Domain Specific Language (DSL) that allows developers to define robotic tasks in terms of "CAN" and "CAN'T" constraints.
+Catalyst is a task-oriented robotic software language designed to harness the possibilities and constraints of robotic systems, enabling developers to build efficient, reliable, and scalable robotic applications. Catalyst leverages the principles of **Constructor Theory**, focusing on tasks as fundamental transformations governed by the laws of physics. At its core is the **Counterfactual API**, which helps define what tasks *CAN* and *CAN'T* be achieved within the physical constraints of the environment. 
 
-## Why Pillur?
-
-The current landscape of robotic software development is heavily influenced by probabilistic models and methodologies. While effective in some contexts, these approaches often lack the precision and reliability needed in robotics. **Pillur** challenges this paradigm by introducing a counterfactual approach, where tasks are defined by what is possible and impossible, rather than by probabilities. This shift enhances the accuracy of robotic software and opens up new avenues for innovation.
-
-### Key Concepts
-
-- **Constructor Theory:** The foundation of Pillur, Constructor Theory shifts the focus from traditional laws of motion to principles that define what tasks are possible or impossible. In the context of robotics, this means creating software that can perform tasks reliably and deterministically.
-
-- **Catalyst Language:** Catalyst is a minimalistic DSL within Pillur that allows developers to specify tasks for robots using "CAN" and "CAN'T" declarations. This language is designed to manage and execute tasks based on the principles of Constructor Theory, ensuring that robotic systems adhere to the defined constraints.
-
-- **Counterfactuals in Robotics:** Pillur’s approach is rooted in counterfactual reasoning—defining tasks based on outcomes that can or cannot occur. This leads to more precise and reliable software, reducing the complexity and unpredictability associated with traditional approaches.
-
-- **Deterministic Software Development:** By eliminating probabilistic elements, Pillur ensures that robotic software behaves predictably and consistently, even in complex environments.
-
-### Example Workflow with Catalyst
-
-Consider the following task definition written in Catalyst's TDL (Task Definition Language):
-
-```yaml
-task: PickAndPlaceBlock
-description: Move the block to the target area without hitting obstacles.
-actions:
-  - CAN: move(arm, block_location)
-  - CAN: grasp(arm, block)
-  - CAN: move(arm, target_location)
-  - CAN'T: collide(arm, obstacles)
-```
-# Reference
-
-1. **The Philosophy of Constructor Theory**  
-   Author(s): David Deutsch  
-   Link: https://www.constructortheory.org/portfolio/the-philosophy-of-constructor-theory/
-
-2. **The Science of Can and Can't**  
-   Author(s): Chiara Marletto
-   Link: https://www.chiaramarletto.com/books/the-science-of-can-and-cant/
-
-3. **The information-theoretic foundation of thermodynamic work extraction**  
-   Author(s): Chiara Marletto
-   Link: https://www.constructortheory.org/portfolio/the-information-theoretic-foundation-of-thermodynamic-work-extraction/
----
-
-# Pillur: Applying Constructor Theory to Robotic Software Development
-
-## Overview
-
-**Pillur** is an innovative project focused on revolutionizing robotic software development by applying the principles of Constructor Theory. Rooted in the groundbreaking ideas of David Deutsch and Chiara Marletto, Pillur aims to redefine how robotic software is conceptualized, developed, and tested. By leveraging Constructor Theory, Pillur seeks to eliminate probabilistic methodologies from software development, offering a deterministic and counterfactual approach that simplifies complex tasks in robotics.
-
-## Why Pillur?
-
-The current landscape of robotic software development is heavily influenced by probabilistic models and methodologies. These approaches, while effective in certain contexts, often fall short in providing the precision and reliability required in robotics. Pillur challenges this paradigm by introducing a counterfactual approach, where tasks are defined by what is possible and impossible, rather than by probabilities. This shift not only enhances the accuracy of robotic software but also opens up new possibilities for innovation in the field.
-
-## Why Catalyst?
-
-Catalyst, as a task-oriented robotic software language, would focus on leveraging the possibilities and constraints (CAN and CAN'T) of tasks in robotic systems. It provides a structured way to define, manage, and execute tasks based on the principles of Constructor Theory, where tasks are seen as transformations governed by the laws of physics.
-Counterfactual API which conists of Can and Cant declarations that compose a robotic system.
-
-About the power of taking counterfactual explanations of the world seriously.
-
-Counterfactual explanations of the world are explanations about what physical events could or could not be made to happen.
-
-## Key Concepts
-
-- **Constructor Theory**: The foundation of Pillur, Constructor Theory shifts the focus from traditional laws of motion to principles that define what tasks are possible or impossible. In the context of robotics, this means creating software that can perform tasks reliably and deterministically.
-  
-- **Counterfactuals in Robotics**: Pillur’s approach to robotic software development is rooted in counterfactual reasoning—defining tasks based on the outcomes that can or cannot occur. This allows for more precise and reliable software, reducing the complexity and unpredictability of traditional approaches.
-  
-- **Deterministic Software Development**: By eliminating probabilistic elements from the development process, Pillur ensures that robotic software behaves predictably and consistently, even in complex environments.
-
-## Project Goals
-
-- **Redefine Robotic Software Development**: Apply Constructor Theory to create a new framework for developing robotic software, focusing on deterministic and counterfactual principles.
-  
-- **Create a Task-Oriented Language**: Develop a programming language within Pillur that allows developers to express and manage tasks in terms of what is possible and impossible, enhancing the reliability and precision of robotic applications.
-  
-- **Develop and Test Robotic Applications**: Use Pillur’s framework to build and test robotic applications that demonstrate the practical benefits of a Constructor Theory-based approach.
-
-## Integration of the C4 Model
-
-To ensure the scalability and clarity of Pillur, the C4 Model is applied, breaking down the system into four distinct levels of abstraction: Context, Containers, Components, and Code. This model facilitates a structured and detailed understanding of the system, aiding both development and communication.
-
-### Level 1: Context
-
-At the Context level, Pillur is viewed in relation to the broader ecosystem of robotic software development. Here, Pillur is identified as the central system that interacts with users (robotic software developers), external systems like cloud platforms and ROS, and databases for storing tasks and system states.
-
-### Level 2: Containers
-
-The Containers level delves deeper, identifying key components such as the Task Management API, Task Orchestrator, ROS Integration Layer, Database, and User Interface. Each container serves a specific role in the overall architecture, with clear interactions and responsibilities defined.
-
-### Level 3: Components
-
-Components within each container are further broken down, showing how they collaborate to fulfill their roles. For example, the Task Management API contains services for task definition, execution, and monitoring, while the Task Orchestrator includes a scheduler, execution controller, and error handler.
-
-### Level 4: Code
-
-At the Code level, specific classes, methods, and functions within each component are detailed, providing insight into the implementation of Pillur's architecture. This level is essential for developers working directly on the codebase, particularly in highly regulated environments.
+This project introduces a modular approach to robotic software development, ensuring that tasks can be composed, extended, and managed efficiently across a variety of use cases, from industrial automation to autonomous robotics.
 
 ## Vision
 
-Pillur envisions a future where robotic software development is streamlined through the application of Constructor Theory and the structured approach provided by the C4 Model. This combination ensures that Pillur is not only powerful and flexible but also clear and understandable to all stakeholders. By focusing on tasks as the fundamental units of work and leveraging the principles of Constructor Theory, Pillur provides developers with the tools they need to create more robust, scalable, and flexible robotic applications.
+Catalyst aims to redefine robotic software by providing a precise and practical framework that empowers both developers and non-developers to create robotic systems that operate within their physical limits. The vision for Catalyst revolves around the idea of task modularity and counterfactual reasoning, ensuring that every robotic operation is well-defined, reliable, and physically possible.
+
+By providing a **Counterfactual API** with CAN and CAN'T declarations, Catalyst introduces an intuitive way to compose robotic behaviors. It allows teams to create modular, data-driven, and scalable robotic applications that operate seamlessly in diverse environments. Catalyst's task-oriented architecture makes it suitable for a broad audience, including robotics engineers, product managers, and software developers.
+
+## Problems Catalyst Aims to Solve
+
+1. **Complexity in Robotic Development**: Traditional robotic development requires complex, low-level programming that is inaccessible to non-developers. Catalyst simplifies this by providing a task-oriented, modular approach that abstracts the complexity of robotic tasks.
+
+2. **Lack of Modularity in Task Execution**: Most robotic software lacks flexibility in defining and reusing tasks. Catalyst’s modular design allows for tasks to be composed, extended, and reused across different applications, improving scalability and development efficiency.
+
+3. **Uncertainty and Safety in Task Execution**: Robotic systems often operate in uncertain environments where predicting outcomes is critical. Catalyst uses foundation models to enhance real-time decision-making and ensure safe execution by understanding what tasks are physically possible (CAN) and impossible (CAN'T).
+
+4. **Scalability and Adaptability in Changing Environments**: As robotic systems scale, they face challenges in adapting to new tasks and environments. Catalyst’s integration with predictive models and foundation models enables robots to adapt dynamically to their surroundings.
+
+## Key Features
+
+- **Counterfactual API**: A task-oriented API that defines what can and cannot be achieved, ensuring all operations adhere to the physical constraints of the environment.
+  
+- **Modular Task Composition**: Tasks are treated as modular components (APIs) that can be composed, extended, and reused, enabling scalable and flexible robotic systems.
+
+- **Foundation Model Integration**: Catalyst integrates foundation models to enhance task execution, enabling real-time decision-making, uncertainty quantification, and task prediction.
+
+- **Seamless Cloud Integration**: Built with a cloud-native architecture in mind, Catalyst allows for easy integration with cloud-based robotic systems, providing scalability and access to real-time data.
+
+- **Accessible to Non-Developers**: Catalyst is designed with accessibility in mind, providing tools and visual interfaces for non-technical stakeholders to define and manage tasks without deep coding knowledge.
+
+## Example Workflow
+
+Here's a typical workflow in Catalyst, showcasing its task-oriented approach:
+
+### Scenario: Automated Object Sorting Robot
+
+1. **Task 1: Detect Object**
+   - **CAN**: Detect objects using a camera sensor.
+   - **CAN'T**: Detect objects beyond a certain size or weight.
+
+2. **Task 2: Classify Object**
+   - **CAN**: Classify objects into predefined categories using a foundation model.
+   - **CAN'T**: Classify objects with insufficient data or ambiguous visual cues.
+
+3. **Task 3: Sort Object**
+   - **CAN**: Sort objects into the correct bin based on weight and size limits.
+   - **CAN'T**: Sort objects that exceed bin capacity or safety thresholds.
+
+This modular workflow can be expanded, adjusted, and optimized as needed, providing flexible task execution.
 
 ## Getting Started
 
-1. **Clone the Repository**:  
-   `git clone https://github.com/yourusername/Pillur.git`
-  
-2. **Explore the Examples**:  
-   Start by exploring the task-oriented language examples and C4 Model diagrams provided in the repository.
+To start using Catalyst, follow these steps:
 
-3. **Contribute**:  
-   We welcome contributions from developers, researchers, and robotics enthusiasts. Help us shape the future of robotic software development by contributing to Pillur.
-
-## License
-
-Pillur is licensed under the MIT License. See [LICENSE](./LICENSE) for more details.
-
-
-
-
-# Pillur: Applying Constructor Theory to Robotic Software Development
-
-## Overview
-
-**Pillur** is an innovative project focused on revolutionizing robotic software development by applying the principles of constructor theory. Rooted in the groundbreaking ideas of David Deutsch and Chiara Marletto, Pillur aims to redefine how robotic software is conceptualized, developed, and tested. By leveraging constructor theory, Pillur seeks to eliminate probabilistic methodologies from software development, offering a deterministic and counterfactual approach that simplifies complex tasks in robotics.
-
-## Why Pillur?
-
-The current landscape of robotic software development is heavily influenced by probabilistic models and methodologies. These approaches, while effective in certain contexts, often fall short in providing the precision and reliability required in robotics. Pillur challenges this paradigm by introducing a counterfactual approach, where tasks are defined by what is possible and impossible, rather than by probabilities. This shift not only enhances the accuracy of robotic software but also opens up new possibilities for innovation in the field.
-
-## Key Concepts
-
-- **Constructor Theory**: The foundation of Pillur, constructor theory shifts the focus from traditional laws of motion to principles that define what tasks are possible or impossible. In the context of robotics, this means creating software that can perform tasks reliably and deterministically.
-  
-- **Counterfactuals in Robotics**: Pillur’s approach to robotic software development is rooted in counterfactual reasoning—defining tasks based on the outcomes that can or cannot occur. This allows for more precise and reliable software, reducing the complexity and unpredictability of traditional approaches.
-  
-- **Deterministic Software Development**: By eliminating probabilistic elements from the development process, Pillur ensures that robotic software behaves predictably and consistently, even in complex environments.
-
-## Project Goals
-
-1. **Redefine Robotic Software Development**: Apply constructor theory to create a new framework for developing robotic software, focusing on deterministic and counterfactual principles.
-  
-2. **Create a Task-Oriented Language**: Develop a programming language within Pillur that allows developers to express and manage tasks in terms of what is possible and impossible, enhancing the reliability and precision of robotic applications.
-  
-3. **Develop and Test Robotic Applications**: Use Pillur’s framework to build and test robotic applications that demonstrate the practical benefits of a constructor theory-based approach.
-
-## External Links
-  - https://www.constructortheory.org/
-  - https://www.daviddeutsch.org.uk/
-  - https://www.chiaramarletto.com/
-  - https://www.chiaramarletto.com/books/the-science-of-can-and-cant/
-  - https://www.thebeginningofinfinity.com/
-## Planned Repository Structure
-
-```plaintext
-Pillur/
-│
-├── .github/workflows/
-│   └── ci-cd.yml               # Continuous integration and deployment workflows for Pillur.
-│
-├── Constructor_Theory/
-│   └── Theory.md               # Detailed explanation of how constructor theory is applied in Pillur.
-│
-├── Robotics/
-│   └── Robotics_Applications/  # Directory containing sample robotic applications developed using Pillur.
-│
-├── Language/
-│   └── Task_Language.md        # Documentation on the task-oriented language being developed.
-│
-├── Tests/
-│   └── Test_Framework.md       # Framework and guidelines for testing robotic applications within Pillur.
-│
-├── Examples/
-│   └── Basic_Robot.md          # Examples and tutorials demonstrating how to use Pillur.
-│
-├── README.md                   # Project overview and getting started guide.
-└── LICENSE                     # Licensing information.
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/your-username/catalyst.git
+   cd catalyst
