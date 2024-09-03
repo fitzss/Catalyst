@@ -6,5 +6,5 @@
 
 # In the past few decades, in contrast, there have been none — no new mode of explanationabout physical phenomena has been discovered.
 ## Not only can counterfactuals provide new explanations; they are the foundation of a new mode of explanation.
-### . Though the overall rate of scientific discovery has greatly increased by almost any measure, the discovery of fundamentally new truths about nature has, paradoxically, become less frequent. In fundamental physics in particular, there has been less and less exploration of transformative ideas—and new modes of explanation are not even being attempted.
+### Though the overall rate of scientific discovery has greatly increased by almost any measure, the discovery of fundamentally new truths about nature has, paradoxically, become less frequent. In fundamental physics in particular, there has been less and less exploration of transformative ideas—and new modes of explanation are not even being attempted.
 
