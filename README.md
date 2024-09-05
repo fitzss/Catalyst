@@ -39,7 +39,7 @@ By providing a **Counterfactual API** with CAN and CAN'T declarations, Catalyst 
 Here's a typical workflow in Catalyst, showcasing its task-oriented approach:
 
 ### Scenario: Automated Object Sorting Robot
-
+```
 1. **Task 1: Detect Object**
    - **CAN**: Detect objects using a camera sensor.
    - **CAN'T**: Detect objects beyond a certain size or weight.
@@ -51,7 +51,7 @@ Here's a typical workflow in Catalyst, showcasing its task-oriented approach:
 3. **Task 3: Sort Object**
    - **CAN**: Sort objects into the correct bin based on weight and size limits.
    - **CAN'T**: Sort objects that exceed bin capacity or safety thresholds.
-
+```
 This modular workflow can be expanded, adjusted, and optimized as needed, providing flexible task execution.
 
 # Reference
