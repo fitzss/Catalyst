@@ -54,6 +54,20 @@ Here's a typical workflow in Catalyst, showcasing its task-oriented approach:
 
 This modular workflow can be expanded, adjusted, and optimized as needed, providing flexible task execution.
 
+# Reference
+
+1. **The Philosophy of Constructor Theory**  
+   Author(s): David Deutsch  
+   Link: https://www.constructortheory.org/portfolio/the-philosophy-of-constructor-theory/
+
+2. **The Science of Can and Can't**  
+   Author(s): Chiara Marletto
+   Link: https://www.chiaramarletto.com/books/the-science-of-can-and-cant/
+
+3. **The information-theoretic foundation of thermodynamic work extraction**  
+   Author(s): Chiara Marletto
+   Link: https://www.constructortheory.org/portfolio/the-information-theoretic-foundation-of-thermodynamic-work-extraction/
+
 ## Getting Started
 
 To start using Catalyst, follow these steps:
