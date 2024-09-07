@@ -57,7 +57,7 @@ This modular workflow can be expanded, adjusted, and optimized as needed, provid
 # References
 
 ## Science
----
+
 1. **The Philosophy of Constructor Theory**  
    Author(s): David Deutsch  
    Link: https://www.constructortheory.org/portfolio/the-philosophy-of-constructor-theory/
@@ -69,8 +69,22 @@ This modular workflow can be expanded, adjusted, and optimized as needed, provid
 3. **The information-theoretic foundation of thermodynamic work extraction**  
    Author(s): Chiara Marletto
    Link: https://www.constructortheory.org/portfolio/the-information-theoretic-foundation-of-thermodynamic-work-extraction/
----
 
+4. **Developments in unitary quantum theory**  
+   Author(s): Sam Kuyper
+   Link: https://ora.ox.ac.uk/objects/uuid:22cc9ee5-1425-4824-8a3a-242ac9b5f00f
+---
+## Software
+
+5. **Platform Engineering with Kubernetes**
+   Author(s): Mauricio Salaboy
+   Link: https://www.salaboy.com/
+6. **Robotics for Programmers**
+   Author(s): Andreas Bihlmaier
+   Link: [https://www.salaboy.com/](https://www.manning.com/books/robotics-for-programmers)
+
+### Technologies Used:
+  Bash, Git, Cloud-Native, Kubernetes, Tekton, React, Tensorflow, Keras, ROS 
 
 ## Getting Started
 
