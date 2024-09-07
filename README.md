@@ -83,6 +83,8 @@ This modular workflow can be expanded, adjusted, and optimized as needed, provid
    Author(s): Andreas Bihlmaier
    Link: [https://www.salaboy.com/](https://www.manning.com/books/robotics-for-programmers)
 
+   ---
+
 ### Technologies Used:
   Bash, Git, Cloud-Native, Kubernetes, Tekton, React, Tensorflow, Keras, ROS 
 
