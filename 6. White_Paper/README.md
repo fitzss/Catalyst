@@ -5,3 +5,5 @@
         - one is the Impossibility of performing a transformation
         - the other is the Possibility of performing a transformation
 ## Explanatory theories with such counter-factual implications are more fundamental than predictions of what will happen.
+
+#  All the laws of physics could be formulated solely in terms of principles about counterfactuals, and that the laws of motion follow from them as derivative, and perhaps approximate, properties.
