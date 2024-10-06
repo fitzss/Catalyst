@@ -4,3 +4,4 @@
   ## The fundamental types of counterfactuals that occur in Physics are of two kinds:
         - one is the Impossibility of performing a transformation
         - the other is the Possibility of performing a transformation
+## Explanatory theories with such counter-factual implications are more fundamental than predictions of what will happen.
