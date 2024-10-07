@@ -10,7 +10,31 @@
 
 # Constructor Theory forms Principles about counterfactuals that are stated by saying what tasks are possible, what are impossible, and why.
 
-In constructor theory all laws of physics are stated by saying what tasks are possible, what are impossible, and why. They are principles, which underlie and supplement the existing most fundamental theories of physics.
+## The constructor theory that I shall propose in this paper is not primarily
+
+  - The theory of constructions or constructors, as the prevailing conception would
+    require it to be. 
+    Constructor-theoretic statements never refer to specific
+    constructors, only to the fact that tasks are possible or impossible. - InfoTheo
+
+
+  - It is the theory of which transformations
+    input state of substrates → output state of substrates (2)
+    can be caused and which cannot, and why. 
+
+  - As I shall explain, the idea is that the
+    fundamental questions of physics can all be expressed in terms of those issues, and
+    that the answers do not depend on what the constructor is, so it can be abstracted
+    away, leaving transformations (2) as the basic subject matter of the theory.
+
+  - I shall argue that we should expect such a theory to constitute a fundamental branch of
+    physics with new, universal laws, and to provide a powerful new language for
+    expressing other theories. I shall guess what some of those laws may be, and explore
+    the theory’s potential for solving various problems and achieving various
+    unifications between disparate branches of physics and beyond, and propose a
+    notation that may be useful in developing it.
+---
+## In constructor theory all laws of physics are stated by saying what tasks are possible, what are impossible, and why. They are principles, which underlie and supplement the existing most fundamental theories of physics.
 
 A **task** is a
 **specified physical transformation** on a **substrate**,
@@ -37,3 +61,5 @@ only to the fact that
 **tasks** are **possible** or **impossible**.
 
 This is what allows them to be **scale** **and** **dynamics** **independent**.
+
+---
