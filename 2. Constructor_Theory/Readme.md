@@ -4,7 +4,11 @@
 ## From the question of performing any computation. but now performing any transformation of physical objects, and not if given enough memory but, if given only knowledge because if there’s something you have to give it other then knowledge which itself couldn’t provide then its not universal.
 
 ### The traditional conception of physics and science, takes for granted that scientific theories can only be about what must happen in the universe (or is likely to), given what has happened. But none of that is true. It is no more than an arbitrary limitation on our ability to understand the world.  Incorporating counterfactuals on an equal footing with factual statements into fundamental physics.
+
+# The traditional conception of physics can refer to the state of the object - at any given time, and can predict what the state will be at a later time, and why.  However, a statement of this kind does not tell us anything about what transformations are possible or impossible on the object.
+
 # So constructor theory is all down to knowledge ultimately, and same with epistemology, and same with everything.  -DD
+
 
 # From the constructor-theoretic perspective, physics is almost entirely the theory of the effects that knowledge (abstract constructors) can have on the physical world, via people. But again, the prevailing conception conceals this.
 
